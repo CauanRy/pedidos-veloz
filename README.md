@@ -190,6 +190,8 @@ pedidos-veloz/
 │
 ├── docker-compose.yml
 └── README.md
+Link do video explicativo
+https://youtu.be/NgAT41cUN_8
 
 🏁 Conclusão
 
