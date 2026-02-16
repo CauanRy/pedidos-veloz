@@ -190,11 +190,14 @@ pedidos-veloz/
 │
 ├── docker-compose.yml
 └── README.md
-Link do video explicativo
-https://youtu.be/NgAT41cUN_8
+
+
 
 🏁 Conclusão
 
 Este projeto demonstra a aplicação prática de conceitos fundamentais de DevOps e arquitetura moderna de software.
 
 Ele simula como aplicações reais são estruturadas em ambientes corporativos, utilizando containers, orquestração e automação de deploy.
+
+Link do video explicativo
+https://youtu.be/NgAT41cUN_8
